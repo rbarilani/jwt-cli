@@ -13,7 +13,7 @@ npm install -g @rbarilani/jwt-cli
 
 You can use the tool with piped input:
 
-````bash
+```bash
 echo "$JWT_TOKEN" | jwt 
 ```
 
