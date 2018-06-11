@@ -1,0 +1,14 @@
+{
+  "name": "@rbarilani/jwt-cli",
+  "version": "0.1.0-alpha",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jwt": "./index.js"
+  },
+  "author": "Ruben Barilani <ruben.barilani.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.2.2"
+  }
+}
